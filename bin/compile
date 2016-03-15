@@ -13,7 +13,7 @@ mkdir -p "$BUILD_DIR" "$CACHE_DIR"
 # Files
 JDK=jdk-7u67-linux-x64.tar.gz
 #MULE=mule-standalone-3.5.0.tar.gz
-MULE=mule-standalone-3.7.0.targ.gz
+MULE=mule-standalone-3.7.0.tar.gz
 
 # Move app into deployment area
 cd $BUILD_DIR
